@@ -12,6 +12,8 @@ import (
 	"io/ioutil"
 	"os"
 	"testing"
+
+	"github.com/ant-libs-go/util"
 )
 
 func TestMain(m *testing.M) {
