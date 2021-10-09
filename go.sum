@@ -1,6 +1,8 @@
 git.apache.org/thrift.git v0.13.0/go.mod h1:fPE2ZNJGynbRyZ4dJvy6G277gSllfV2HJqblrnkyeyg=
 github.com/ant-libs-go/util v0.1.60 h1:nKhkszFlSgZZP7+ckmN4Dn/QFsIg5t32XFnE2Qlp9WA=
 github.com/ant-libs-go/util v0.1.60/go.mod h1:WoscZm2RffjAfXkyGdBsBdRtJNt3uA2LqQOLob5X/eE=
+github.com/ant-libs-go/util v0.1.61 h1:xSP0Ks0gsiGyKBxj54EaZtiVx+h/eD+Ed3V2HInXcxE=
+github.com/ant-libs-go/util v0.1.61/go.mod h1:WoscZm2RffjAfXkyGdBsBdRtJNt3uA2LqQOLob5X/eE=
 github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394 h1:OYA+5W64v3OgClL+IrOD63t4i/RW7RqrAVl9LTZ9UqQ=
 github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394/go.mod h1:Q8n74mJTIgjX4RBBcHnJ05h//6/k6foqmgE45jTQtxg=
 github.com/cihub/seelog v0.0.0-20170130134532-f561c5e57575/go.mod h1:9d6lWj8KzO/fd/NrVaLscBKmPigpZpn5YawRPw+e3Yo=
